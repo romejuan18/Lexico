@@ -1,3 +1,6 @@
+
+
+  
 # Analisis Lexico
 
 import ply.lex as lex
@@ -13,4 +16,17 @@ tokens = (
   'PARDER',
   )
 
-  
+# Analisis Lexico
+
+import ply.lex as lex
+
+#Lista con los nombres de los tokens
+tokens = (
+  'ENTERO',
+  'MAS',
+  'MENOS',
+  'MULT',
+  'DIV',
+  'PARIZQ',
+  'PARDER',
+  )
